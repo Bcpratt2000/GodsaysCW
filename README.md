@@ -3,3 +3,5 @@ Script that receives words from God and translates them int Morse code for broad
 godsays executible taken from https://github.com/orhun/godsays, compressed for convinence, written by Terry Davis originaly
 
 simply run GodsaysCW.sh and listen to the Holy CW
+
+depends: tar, mpg123, ebook2cw
